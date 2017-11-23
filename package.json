@@ -1,0 +1,37 @@
+{
+  "name": "google-distance-matrix-calculator",
+  "version": "1.0.0",
+  "description": "This repository takes a json array and measures distance between different points inside it",
+  "main": "distance.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "asyncawait": "^1.0.6",
+    "google-distance": "^1.0.1",
+    "jsonfile": "^4.0.0",
+    "node-async-loop": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesarkuchulu/Google-Distance-Matrix-Calculator.git"
+  },
+  "keywords": [
+    "distance",
+    "distance",
+    "matrix",
+    "google",
+    "distance",
+    "google",
+    "distance",
+    "matrix"
+  ],
+  "author": "Masoud Tahmasebi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesarkuchulu/Google-Distance-Matrix-Calculator/issues"
+  },
+  "homepage": "https://github.com/pesarkuchulu/Google-Distance-Matrix-Calculator#readme"
+}
